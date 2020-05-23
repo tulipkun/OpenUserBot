@@ -133,7 +133,7 @@ async def pipcheck(pip):
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit(
-                     "Ohayou Gozaimasu Onii-chan! \n"
+                     "Ohayou Gozaimasu Onii-chan!❤️ \n"
                      " \n"
                      f"Telethon version: {version.__version__} \n"
                      f"Python: {python_version()} \n"
@@ -141,7 +141,7 @@ async def amireallyalive(alive):
                      f"Lolicon Onii-chan: Tulip-Kun \n"
                      " \n"
                      f"Tulip-Kun's Imouto: Yui Hitagana \n"
-                     f"Onii-chan is my number one sex slave! 😎 "
+                     f"Onii-chan is my number one sex slave!😍🤪 "
                      "`")  
 
 
